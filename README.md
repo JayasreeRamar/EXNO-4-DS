@@ -24,6 +24,30 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+ ![alt text](<Screenshot 2024-04-17 084152.png>)
+ ![alt text](<Screenshot 2024-04-17 084203.png>) 
+ ![alt text](<Screenshot 2024-04-17 084216.png>) 
+ ![alt text](<Screenshot 2024-04-17 084229.png>) 
+ ![alt text](<Screenshot 2024-04-17 084242.png>) 
+ ![alt text](<Screenshot 2024-04-17 084256.png>) 
+ ![alt text](<Screenshot 2024-04-17 084310.png>) 
+ ![alt text](<Screenshot 2024-04-17 084324.png>) 
+ ![alt text](<Screenshot 2024-04-17 084358.png>) 
+ ![alt text](<Screenshot 2024-04-17 084441.png>) 
+ ![alt text](<Screenshot 2024-04-17 084452.png>) 
+ ![alt text](<Screenshot 2024-04-17 084511.png>) 
+ ![alt text](<Screenshot 2024-04-17 084522.png>)
+ ![alt text](<Screenshot 2024-04-17 084531.png>) 
+ ![alt text](<Screenshot 2024-04-17 084543.png>) 
+ ![alt text](<Screenshot 2024-04-17 084558.png>) 
+ ![alt text](<Screenshot 2024-04-17 084606.png>) 
+ ![alt text](<Screenshot 2024-04-17 084616.png>) 
+ ![alt text](<Screenshot 2024-04-17 084624.png>) 
+ ![alt text](<Screenshot 2024-04-17 084631.png>) 
+ ![alt text](<Screenshot 2024-04-17 084645.png>) 
+ ![alt text](<Screenshot 2024-04-17 084655.png>) 
+ ![alt text](<Screenshot 2024-04-17 084704.png>) 
+ ![alt text](<Screenshot 2024-04-17 084715.png>) 
+ ![alt text](<Screenshot 2024-04-17 084732.png>)
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+       Thus the Feature selection process was executed successfully.
